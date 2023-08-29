@@ -1,4 +1,4 @@
-class PliagePapier {
+public class Main {
     public static void main(String[] args) {
         double epaisseur = 0.1;
         int hauteurBurj = 828;
