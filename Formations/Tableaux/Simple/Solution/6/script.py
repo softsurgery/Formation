@@ -23,9 +23,11 @@ for i in range(n):
         T2[i]="A"
         
 for i in range(n):
-    print(T1[i])
+    print(T1[i],end="")
+print("\n")
 for i in range(n):
     print("|",end="")
+print("\n")
 for i in range(n):
-    print(T2[i])
+    print(T2[i],end="")
     
