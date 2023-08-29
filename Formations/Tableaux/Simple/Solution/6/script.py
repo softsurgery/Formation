@@ -24,10 +24,8 @@ for i in range(n):
         
 for i in range(n):
     print(T1[i],end="")
-print("\n")
+print("")
 for i in range(n):
     print("|",end="")
-print("\n")
-for i in range(n):
-    print(T2[i],end="")
+print("")
     
